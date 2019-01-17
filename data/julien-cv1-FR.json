@@ -141,24 +141,6 @@
             "title": "Emulateur Gameboy",
             "organizationName": "Langage : C, SDL, C++, SFML",
             "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant."
-          },
-          {
-            "date": "2016",
-            "title": "Interpréteur Chip8",
-            "organizationName": "Langage : C, SDL",
-            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8"
-          },
-		  {
-            "date": "2016",
-            "title": "Pong pour la NES",
-            "organizationName": "Langage : Assembleur 6502, C",
-            "description": "Programmation d'un pong, pour la Nintendo Entertainment System, pour le présenter à un AfterWork"
-          },
-		  {
-            "date": "2016",
-            "title": "Réécriture d'un jeu javascript en Assembleur 6507",
-            "organizationName": "Langage : Javascript, Assembleur 6507",
-            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600"
           }
         ]
       },
