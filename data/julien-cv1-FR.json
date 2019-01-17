@@ -1,0 +1,188 @@
+{
+  "firstName": "Julien",
+  "lastName": "Magnin",
+  "dictionary": {
+    "address1": "adresse",
+    "address2": "adresse2",
+    "fullAddress": "adresse",
+    "city": null,
+    "zip": null,
+    "country": null,
+    "mail": "E-mail",
+    "phoneNumber": "Télephone",
+    "github": "Github"
+  },
+  "icons": {},
+  "rules": {
+    "showItem": {
+      "address1": false,
+      "address2": false,
+      "fullAddress": true,
+      "city": true,
+      "zip": true,
+      "country": true,
+      "mail": true,
+      "phoneNumber": true,
+      "github": true
+    }
+  },
+  "userDetails": {
+    "address1": "425 Avenue Fernandel",
+    "address2": "425 Avenue Fernandel",
+    "fullAddress": "425 Avenue Fernandel",
+    "city": "Gignac-La-Nerthe",
+    "zip": "13180",
+    "country": "France",
+    "mail": "mgnjulien@gmail.com",
+    "phoneNumber": "+33 6 35 25 09 80",
+    "github": "https://github.com/MS-DOS1999"
+  },
+  "moreInformation": {
+    "userAbilities": {
+      "skills": {
+        "title": "Skills",
+        "style": {
+          "IdName": "skills",
+          "classesName": "skill"
+        },
+        "array": [
+          "HTML/CSS",
+          "Javascript (Canilla ES6+, AngularJS)",
+          "TypeScript (Angular 6+)",
+          "Lua",
+          "C/C++",
+          "NodeJS",
+          "SQL",
+          "C#",
+          "JAVA"
+        ]
+      },
+      "languages": {
+        "title": "Languages",
+        "style": {
+          "IdName": "languages",
+          "classesName": "language"
+        },
+        "array": ["Anglais", "Français"]
+      },
+      "Hobbies": {
+        "title": "Hobbies",
+        "style": {
+          "IdName": "hobbies",
+          "classesName": "hobbie"
+        },
+        "array": [
+          "Jeux vidéo",
+          "Informatique embarqué(arduino, STM32 nucléo)",
+          "Aeronautiques",
+          "3D (openGL C/C++, unity 3D, unreal Engine 4, blender)"
+        ]
+      }
+    },
+    "summary": {
+      "title": "Programmeur",
+      "text": "Programmeur C, C++, ASM, je suis actuellement à la recherche d'un emploi dans le domaine informatique afin de m'épanouir professionnellement et de prouver mes compétences au sein d'une équipe. "
+    },
+    "backgroundExperiences": {
+      "workExperiences": {
+        "title": "experiences proféssionnelles",
+        "style": {
+          "IdName": "experiences",
+          "classesName": "experience"
+        },
+        "array": [
+          {
+            "date": "2018",
+            "title": "Developpement de Site Web",
+            "organizationName": "",
+            "description": "Développeur Web, front-end/back-end, Wordpress, HTML,CSS, JS, PHP. Developpement du site pour une chanteuse et pour un coach dans l'immobilier"
+          },
+          {
+            "date": "03/2017 - 04/2017",
+            "title": "Stage développeur web (Front et Back End)",
+            "organizationName": "Mission Locale Marseille",
+            "description": "Stage dans le développement de site web principalement sous wordpress. Refonte de l'ancien site, intégration de carte Google Maps, base de données MYSQL, création d'une application de communication simplifié entre la structure et le public, médiation numérique."
+          },
+          {
+            "date": "06/2016",
+            "title": "Stage Electronique Marine Embarquée",
+            "organizationName": "Sambroni",
+            "description": "Stage dans une entreprise d'installation et de maintenance en electronique marine, réparation de matériel electronique et informatique, intervention à bord de divers bateaux."
+          }
+        ]
+      },
+	  "personnalWork": {
+        "title": "projets personnels",
+        "style": {
+          "IdName": "personnels",
+          "classesName": "personnels"
+        },
+        "array": [
+		  {
+            "date": "2018 - 2019",
+            "title": "System d'Exploitation x86",
+            "organizationName": "Langage : Assembleur x86, C",
+            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86."
+          },
+          {
+            "date": "2018 - 2019",
+            "title": "Emulateur Nintendo Switch",
+            "organizationName": "Langage : C#, CIL",
+            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pur but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires)."
+          },
+		  {
+            "date": "2018 - 2019",
+            "title": "Emulateur Master System",
+            "organizationName": "Langage : C, SFML",
+            "description": "Développement d'un émulateur Master System en C/SFML."
+          },
+          {
+            "date": "2016 - 2019",
+            "title": "Emulateur Gameboy",
+            "organizationName": "Langage : C, SDL, C++, SFML",
+            "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant."
+          },
+          {
+            "date": "2016",
+            "title": "Interpréteur Chip8",
+            "organizationName": "Langage : C, SDL",
+            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8"
+          },
+		  {
+            "date": "2016",
+            "title": "Pong pour la NES",
+            "organizationName": "Langage : Assembleur 6502, C",
+            "description": "Programmation d'un pong, pour la Nintendo Entertainment System, pour le présenter à un AfterWork"
+          },
+		  {
+            "date": "2016",
+            "title": "Réécriture d'un jeu javascript en Assembleur 6507",
+            "organizationName": "Langage : Javascript, Assembleur 6507",
+            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600"
+          }
+        ]
+      },
+      "formations": {
+        "title": "formations",
+        "style": {
+          "IdName": "formations",
+          "classesName": "formation"
+        },
+        "array": [
+          {
+            "date": "2016",
+            "title": "SIMPLONMARS",
+            "organizationName": "SIMPLONMARS",
+            "description": "Formation intensive à centrale Marseille sur les langages de programmation web (front et back-end), médiation numérique, méthodes agiles."
+          },
+		  {
+            "date": "2017/2018",
+            "title": "CREAJEUX",
+            "organizationName": "CREAJEUX",
+            "description": "Formation à l'école des métiers du Jeux Vidéo sur les langages de programmation C/C++/C# et la bibliothèque graphique MYSQL, CUDA, programmation Shader, méthodes agiles. Et développement d'un jeux vidéo destiné à être publié sur Steam, dans le cadre de Creadev, studio de Jeux Vidéo de l'école."
+		  }
+        ]
+      }
+    }
+  }
+}
