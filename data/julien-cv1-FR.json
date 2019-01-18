@@ -143,13 +143,15 @@
             "date": "2016 - 2019",
             "title": "Emulateur Gameboy",
             "organizationName": "Langage : C, SDL, C++, SFML",
-            "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant.<br>https://github.com/MS-DOS1999/GameBoo"
+            "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant.",
+			"link": "http://www.emu-france.com/emulateurs/333-consoles-portables/62-nintendo-game-boy-gb-light-gb-color/7395-gameboo/"
           },
           {
             "date": "2016",
             "title": "Interpréteur Chip8",
             "organizationName": "Langage : C, SDL",
-            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8."
+            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8.",
+			"link": "http://www.emu-france.com/news/47347-ordi-sheep8-v1-5/"
           },
           {
             "date": "2016",
