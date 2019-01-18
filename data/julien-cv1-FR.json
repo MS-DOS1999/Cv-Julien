@@ -122,19 +122,22 @@
             "date": "2018 - 2019",
             "title": "System d'Exploitation x86",
             "organizationName": "Langage : Assembleur x86, C",
-            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86.<br>https://github.com/MS-DOS1999/RetroOS"
+            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86.",
+			"link": "https://github.com/MS-DOS1999/RetroOS"
           },
           {
             "date": "2018 - 2019",
             "title": "Emulateur Nintendo Switch",
             "organizationName": "Langage : C#, CIL",
-            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires).<br>https://ryujinx.org/#/"
+            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires).",
+			"link": "https://ryujinx.org/#/"
           },
           {
             "date": "2018 - 2019",
             "title": "Emulateur Master System",
             "organizationName": "Langage : C, SFML",
-            "description": "Développement d'un émulateur Master System en C/SFML.<br>https://github.com/MS-DOS1999/Master-System-Emu_Gui0x52"
+            "description": "Développement d'un émulateur Master System en C/SFML.",
+			"link": "https://github.com/MS-DOS1999/Master-System-Emu_Gui0x52"
           },
           {
             "date": "2016 - 2019",
@@ -158,7 +161,7 @@
             "date": "2016",
             "title": "Réécriture d'un jeu javascript en Assembleur 6507",
             "organizationName": "Langage : Javascript, Assembleur 6507",
-            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600."
+            "description": "Réécriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600."
           }
         ]
       },

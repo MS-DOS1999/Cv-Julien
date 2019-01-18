@@ -59,7 +59,7 @@ CVApp.controller("CVController", function($scope, $http) {
   function getDefaultCv() {
     $http({
       method: 'GET',
-      url: './data/julien-cv1-EN.json',
+      url: './data/julien-cv1-FR.json',
       headers: {
         'Accept': 'application/json'
       }
