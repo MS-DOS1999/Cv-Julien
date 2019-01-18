@@ -46,15 +46,13 @@
           "classesName": "skill"
         },
         "array": [
-          "HTML/CSS",
-          "Javascript (Canilla ES6+, AngularJS)",
-          "TypeScript (Angular 6+)",
-          "Lua",
-          "C/C++",
-          "NodeJS",
-          "SQL",
+          "C",
+          "C++",
+          "Assembleur",
           "C#",
-          "JAVA"
+          "HTML/CSS",
+          "Javascript",
+          "Php"
         ]
       },
       "languages": {
@@ -72,10 +70,12 @@
           "classesName": "hobbie"
         },
         "array": [
+          "Emulation",
           "Jeux vidéo",
-          "Informatique embarqué(arduino, STM32 nucléo)",
-          "Aeronautiques",
-          "3D (openGL C/C++, unity 3D, unreal Engine 4, blender)"
+          "Electronique",
+          "Tir de Loisir",
+		  "Dessin",
+		  "Lecture"
         ]
       }
     },
@@ -122,43 +122,43 @@
             "date": "2018 - 2019",
             "title": "System d'Exploitation x86",
             "organizationName": "Langage : Assembleur x86, C",
-            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86."
+            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86.<br>https://github.com/MS-DOS1999/RetroOS"
           },
           {
             "date": "2018 - 2019",
             "title": "Emulateur Nintendo Switch",
             "organizationName": "Langage : C#, CIL",
-            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires)."
+            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires).<br>https://ryujinx.org/#/"
           },
           {
             "date": "2018 - 2019",
             "title": "Emulateur Master System",
             "organizationName": "Langage : C, SFML",
-            "description": "Développement d'un émulateur Master System en C/SFML."
+            "description": "Développement d'un émulateur Master System en C/SFML.<br>https://github.com/MS-DOS1999/Master-System-Emu_Gui0x52"
           },
           {
             "date": "2016 - 2019",
             "title": "Emulateur Gameboy",
             "organizationName": "Langage : C, SDL, C++, SFML",
-            "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant."
+            "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant.<br>https://github.com/MS-DOS1999/GameBoo"
           },
           {
             "date": "2016",
             "title": "Interpréteur Chip8",
             "organizationName": "Langage : C, SDL",
-            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8"
+            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8."
           },
           {
             "date": "2016",
             "title": "Pong pour la NES",
             "organizationName": "Langage : Assembleur 6502, C",
-            "description": "Programmation d'un pong, pour la Nintendo Entertainment System, pour le présenter à un AfterWork"
+            "description": "Programmation d'un pong, pour la Nintendo Entertainment System, pour le présenter à un AfterWork."
           },
           {
             "date": "2016",
             "title": "Réécriture d'un jeu javascript en Assembleur 6507",
             "organizationName": "Langage : Javascript, Assembleur 6507",
-            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600"
+            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600."
           }
         ]
       },
