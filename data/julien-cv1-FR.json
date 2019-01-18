@@ -111,14 +111,14 @@
           }
         ]
       },
-	  "personnalWork": {
+      "personnalWork": {
         "title": "projets personnels",
         "style": {
           "IdName": "personnels",
           "classesName": "personnels"
         },
         "array": [
-		  {
+          {
             "date": "2018 - 2019",
             "title": "System d'Exploitation x86",
             "organizationName": "Langage : Assembleur x86, C",
@@ -128,9 +128,9 @@
             "date": "2018 - 2019",
             "title": "Emulateur Nintendo Switch",
             "organizationName": "Langage : C#, CIL",
-            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pur but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires)."
+            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires)."
           },
-		  {
+          {
             "date": "2018 - 2019",
             "title": "Emulateur Master System",
             "organizationName": "Langage : C, SFML",
@@ -141,6 +141,24 @@
             "title": "Emulateur Gameboy",
             "organizationName": "Langage : C, SDL, C++, SFML",
             "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant."
+          },
+          {
+            "date": "2016",
+            "title": "Interpréteur Chip8",
+            "organizationName": "Langage : C, SDL",
+            "description": "Développement complet d'un interpréteur du langage interprété CHIP-8"
+          },
+          {
+            "date": "2016",
+            "title": "Pong pour la NES",
+            "organizationName": "Langage : Assembleur 6502, C",
+            "description": "Programmation d'un pong, pour la Nintendo Entertainment System, pour le présenter à un AfterWork"
+          },
+          {
+            "date": "2016",
+            "title": "Réécriture d'un jeu javascript en Assembleur 6507",
+            "organizationName": "Langage : Javascript, Assembleur 6507",
+            "description": "Rééecriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600"
           }
         ]
       },
@@ -154,15 +172,15 @@
           {
             "date": "2016",
             "title": "SIMPLONMARS",
-            "organizationName": "SIMPLONMARS",
+            "organizationName": "",
             "description": "Formation intensive à centrale Marseille sur les langages de programmation web (front et back-end), médiation numérique, méthodes agiles."
           },
-		  {
+          {
             "date": "2017/2018",
             "title": "CREAJEUX",
-            "organizationName": "CREAJEUX",
-            "description": "Formation à l'école des métiers du Jeux Vidéo sur les langages de programmation C/C++/C# et la bibliothèque graphique MYSQL, CUDA, programmation Shader, méthodes agiles. Et développement d'un jeux vidéo destiné à être publié sur Steam, dans le cadre de Creadev, studio de Jeux Vidéo de l'école."
-		  }
+            "organizationName": "",
+            "description": "Formation à l'école des métiers du Jeux Vidéo sur les langages de programmation C/C++/C# et la bibliothèque graphique SFML, CUDA, programmation Shader, méthodes agiles. Et développement d'un jeux vidéo destiné à être publié sur Steam, dans le cadre de Creadev, studio de Jeux Vidéo de l'école."
+          }
         ]
       }
     }

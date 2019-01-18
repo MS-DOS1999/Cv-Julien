@@ -10,7 +10,6 @@
 </head>
 
 <body ng-controller="CVController" layout="row" ng-cloak>
-  <pdfRender>
     <cv-content layout="row">
       <section class="left panel" layout="column">
         <section id="userDetails">
@@ -33,9 +32,35 @@
           <h4 class="title orange">{{currentUser.moreInformation.summary.title}}</h4>
           <p>{{currentUser.moreInformation.summary.text}}</p>
         </section>
-        <section id="{{backgroundExperiences.style.IdName}}" class="backgroundExperiences" ng-repeat="backgroundExperiences in currentUser.moreInformation.backgroundExperiences">
-          <h4 class="container title orange">{{backgroundExperiences.title}}</h4>
-          <section class="{{backgroundExperiences.style.classesName}} backgroundExperience" ng-repeat="experience in backgroundExperiences.array">
+        <section id="{{currentUser.moreInformation.backgroundExperiences.personnalWork.style.IdName}}"
+          class="currentUser.moreInformation.backgroundExperiences.personnalWork">
+          <h4 class="container title orange">{{currentUser.moreInformation.backgroundExperiences.personnalWork.title}}</h4>
+          <section class="{{currentUser.moreInformation.backgroundExperiences.personnalWork.style.classesName}} backgroundExperience"
+            ng-repeat="experience in currentUser.moreInformation.backgroundExperiences.personnalWork.array">
+            <h5 class="title">{{experience.date + " " + experience.organizationName}}</h5>
+            <h5 class="title">{{experience.title}}</h5>
+            <p>{{experience.description}}</p>
+          </section>
+        </section>
+      </section>
+    </cv-content>
+    <cv-content layout="row">
+      <section class="right panel" layout="column">
+        <section id="{{currentUser.moreInformation.backgroundExperiences.workExperiences.style.IdName}}"
+          class="currentUser.moreInformation.backgroundExperiences.workExperiences">
+          <h4 class="container title orange">{{currentUser.moreInformation.backgroundExperiences.workExperiences.title}}</h4>
+          <section class="{{currentUser.moreInformation.backgroundExperiences.workExperiences.style.classesName}} backgroundExperience"
+            ng-repeat="experience in currentUser.moreInformation.backgroundExperiences.workExperiences.array">
+            <h5 class="title">{{experience.date + " " + experience.organizationName}}</h5>
+            <h5 class="title">{{experience.title}}</h5>
+            <p>{{experience.description}}</p>
+          </section>
+        </section>
+        <section id="{{currentUser.moreInformation.backgroundExperiences.formations.style.IdName}}"
+          class="currentUser.moreInformation.backgroundExperiences.formations">
+          <h4 class="container title orange">{{currentUser.moreInformation.backgroundExperiences.formations.title}}</h4>
+          <section class="{{currentUser.moreInformation.backgroundExperiences.formations.style.classesName}} backgroundExperience"
+            ng-repeat="experience in currentUser.moreInformation.backgroundExperiences.formations.array">
             <h5 class="title">{{experience.date + " " + experience.organizationName}}</h5>
             <h5 class="title">{{experience.title}}</h5>
             <p>{{experience.description}}</p>
