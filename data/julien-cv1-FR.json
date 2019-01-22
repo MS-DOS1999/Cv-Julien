@@ -4,7 +4,7 @@
   "dictionary": {
     "address1": "adresse",
     "address2": "adresse2",
-    "fullAddress": "adresse",
+    "fullAddress": "Adresse",
     "city": null,
     "zip": null,
     "country": null,
@@ -40,7 +40,7 @@
   "moreInformation": {
     "userAbilities": {
       "skills": {
-        "title": "Skills",
+        "title": "Compétences",
         "style": {
           "IdName": "skills",
           "classesName": "skill"
@@ -56,12 +56,12 @@
         ]
       },
       "languages": {
-        "title": "Languages",
+        "title": "Langages",
         "style": {
           "IdName": "languages",
           "classesName": "language"
         },
-        "array": ["Anglais", "Français"]
+        "array": ["Français", "Anglais"]
       },
       "Hobbies": {
         "title": "Hobbies",
@@ -85,7 +85,7 @@
     },
     "backgroundExperiences": {
       "workExperiences": {
-        "title": "experiences proféssionnelles",
+        "title": "Experiences Professionnelles",
         "style": {
           "IdName": "experiences",
           "classesName": "experience"
@@ -101,18 +101,18 @@
             "date": "03/2017 - 04/2017",
             "title": "Stage développeur web (Front et Back End)",
             "organizationName": "Mission Locale Marseille",
-            "description": "Stage dans le développement de site web principalement sous wordpress. Refonte de l'ancien site, intégration de carte Google Maps, base de données MYSQL, création d'une application de communication simplifié entre la structure et le public, médiation numérique."
+            "description": "Stage dans le développement de site web principalement sous wordpress. Refonte de l'ancien site, intégration de carte Google Maps, base de données MYSQL, création d'une application de communication simplifiée entre la structure et le public, médiation numérique."
           },
           {
             "date": "06/2016",
             "title": "Stage Electronique Marine Embarquée",
             "organizationName": "Sambroni",
-            "description": "Stage dans une entreprise d'installation et de maintenance en electronique marine, réparation de matériel electronique et informatique, intervention à bord de divers bateaux."
+            "description": "Stage dans une entreprise d'installation et de maintenance en électronique marine, réparation de matériel électronique et informatique, intervention à bord de divers bateaux."
           }
         ]
       },
       "personnalWork": {
-        "title": "projets personnels",
+        "title": "Projets Personnels",
         "style": {
           "IdName": "personnels",
           "classesName": "personnels"
@@ -122,14 +122,14 @@
             "date": "2018 - 2019",
             "title": "System d'Exploitation x86",
             "organizationName": "Langage : Assembleur x86, C",
-            "description": "Développement d'un system d'exploitation, style MS-DOS, destiné à l'architecture x86.",
+            "description": "Développement d'un système d'exploitation, style MS-DOS, destiné à l'architecture x86.",
 			"link": "https://github.com/MS-DOS1999/RetroOS"
           },
           {
             "date": "2018 - 2019",
             "title": "Emulateur Nintendo Switch",
             "organizationName": "Langage : C#, CIL",
-            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un emulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires).",
+            "description": "Développeur faisant parti de l'équipe Ryujinx, qui a pour but de produire un émulateur Nintendo Switch en C#, chargé du développement du CPU (ajout d'opcodes/instructions au processeur de type ARM-V8, écriture de tests unitaires).",
 			"link": "https://ryujinx.org/#/"
           },
           {
@@ -163,12 +163,12 @@
             "date": "2016",
             "title": "Réécriture d'un jeu javascript en Assembleur 6507",
             "organizationName": "Langage : Javascript, Assembleur 6507",
-            "description": "Réécriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuté sur Atari 2600."
+            "description": "Réécriture d'un jeu vidéo javascript réalisé dans le cadre de la formation SIMPLONMARS, pour le faire éxecuter sur Atari 2600."
           }
         ]
       },
       "formations": {
-        "title": "formations",
+        "title": "Formations",
         "style": {
           "IdName": "formations",
           "classesName": "formation"
@@ -178,7 +178,7 @@
             "date": "2016",
             "title": "SIMPLONMARS",
             "organizationName": "",
-            "description": "Formation intensive à centrale Marseille sur les langages de programmation web (front et back-end), médiation numérique, méthodes agiles."
+            "description": "Formation intensive à Centrale Marseille sur les langages de programmation web (front et back-end), médiation numérique, méthodes agiles."
           },
           {
             "date": "2017/2018",
