@@ -144,7 +144,7 @@
             "title": "Emulateur Gameboy",
             "organizationName": "Langage : C, SDL, C++, SFML",
             "description": "Développement d'un émulateur Gameboy commencé en 2016 en C/SDL et fini en 2017, actuellement, refonte de cet emulateur en C++/SFML qui consiste à rendre celui-ci plus performant.",
-			"link": "http://www.emu-france.com/emulateurs/333-consoles-portables/62-nintendo-game-boy-gb-light-gb-color/7395-gameboo/"
+			"link": "https://github.com/MS-DOS1999/GameBoo"
           },
           {
             "date": "2016",
