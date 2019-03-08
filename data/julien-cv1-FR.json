@@ -123,7 +123,7 @@
             "title": "Emulateur MegaDrive",
             "organizationName": "Langage : C++, CSFML",
             "description": "Développement d'un émulateur MegaDrive en C++/CSFML.",
-			"link": "https://github.com/MS-DOS1999/DrivOnix"
+			"link": "https://github.com/MS-DOS1999/DrivOnix-Genesis_Megadrive_Emulator"
           },
           {
             "date": "2018 - 2019",
